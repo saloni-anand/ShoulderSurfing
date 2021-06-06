@@ -1,0 +1,10 @@
+Steps to run the project:
+
+Step 1: The first step is to install XAMPP onto the computer.
+Step 2: Start Apache server and MySQL using Xampp Control Panel.
+Step 3: On the Command Prompt, go to the project folder location.
+Step 4: Run the command: "pip install -r requirements.txt" to download the requirements of the project.
+Step 5: Run the command: "python manage.py runserver" to run the project.
+Step 6: Open the browser and then type in URL field: "http://localhost:8000/register" to register the account. 
+        Make an account by registering with your email id and make a 8 digit password.
+Step 7: Then open "http://localhost:8000/login/" to login to the system using our novel idea of Graphical User Interface Password to prevent Shoulder Surfing.
